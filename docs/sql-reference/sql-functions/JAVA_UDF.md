@@ -16,7 +16,7 @@ StarRocks supports scalar UDFs, user-defined aggregate functions (UDAFs), user-d
 
 ## Enable UDFs
 
-In the **$FE_HOME/conf/fe.conf** file of each frontend (FE), set `enable_ud``f` to `true`. Then, restart that FE to make the new setting take effect.
+In the **$FE_HOME/conf/fe.conf** file of each frontend (FE), set `enable_udf` to `true`. Then, restart that FE to make the new setting take effect.
 
 ## Create and use UDFs
 
